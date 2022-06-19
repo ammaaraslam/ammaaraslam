@@ -4,6 +4,11 @@
 </P>
 Thanks for taking time to visit and read my GitHub profile 💙.
 
+## Currently Working On
+<p><a href="https://github.com/ammaaraslam/tweetsnap" target="_blank">TweetSnap</a> - A Web App to Create Beautiful Images of Tweets</p>
+<p><a href="https://github.com/ammaaraslam/reactants" target="_blank">Reactants</a> - A Custom React Components Builder</p>
+
+
 ## My Current Tech Stack
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gatsby.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48">
