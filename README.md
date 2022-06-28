@@ -22,9 +22,12 @@ Thanks for taking time to visit and read my GitHub profile 💙.
 
 
 
-## Github Stats
+## GitHub Stats
 
 ![Ammaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammaaraslam&show_icons=true&theme=algolia)
+
+## GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ammaaraslam&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
 <!---
 ammaaraslam/ammaaraslam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
