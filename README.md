@@ -10,17 +10,10 @@
 </p>
 Thanks for taking time to visit and read my GitHub profile 💙.
 
-## Currently Working On
-<p><a href="https://github.com/ammaaraslam/tweetsnap" target="_blank">TweetSnap</a> - A Web App to Create Beautiful Images of Tweets</p>
-<p><a href="https://github.com/ammaaraslam/reactants" target="_blank">Reactants</a> - A Custom React Components Builder</p>
-
-
 ## My Current Tech Stack
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gatsby.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48">
-
-
 
 ## GitHub Stats
 
