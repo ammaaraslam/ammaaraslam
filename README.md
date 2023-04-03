@@ -12,7 +12,8 @@ Thanks for taking time to visit and read my GitHub profile 💙.
 
 ## My Current Tech Stack
 ```
-**Every technology I'm using/have used, _(In no particular order :)_**
+**Every technology I'm using/have used**
+*(In no particular order :)*
 ```
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48">
