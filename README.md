@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi There! I’m Ammaar Aslam</h1>
 <p align="center">
-  A 17 year-old, self-taught developer / programmer from <strong>Sri Lanka</strong>.
+  An 18 year-old, self-taught developer / programmer from <strong>Sri Lanka</strong>.
 </p>
 <p align="center">
 <a href="https://hashnode.com/@ammaaraslam/joinme" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
